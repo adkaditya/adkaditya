@@ -426,3 +426,106 @@ HTML • CSS • JavaScript
 🚀 Always learning • Always building • Always improving
 
 </div>
+
+💙 Happy Coding 🚀
+## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/adkaditya/adkaditya/output/github-contribution-grid-snake-dark.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/adkaditya/adkaditya/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+# 📈 GitHub Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adkaditya&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/adkaditya/adkaditya/output/github-contribution-grid-snake-dark.svg">
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/adkaditya/adkaditya/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+# 📊 GitHub Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adkaditya&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Become a Full Stack MERN Developer
+- 🤖 Build AI-powered Web Applications
+- 📚 Solve 500+ LeetCode Problems
+- 🌍 Contribute to Open Source
+- 💼 Crack a Software Developer Role
+- ☁️ Learn Docker & AWS
+- ⚡ Master Next.js & TypeScript
+
+---
+
+# 💡 Developer Philosophy
+
+> **"First solve the problem. Then write clean, maintainable code."**
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aditya-kumar-96551b261/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://aditya-devportfolio-pages.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:adk6535@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/adk6535/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## ❤️ Thanks for Visiting My Profile
+
+⭐ If you like my work, consider starring my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0EA5E9,100:7C3AED"/>
+
+</div>
